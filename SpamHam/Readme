@@ -1,0 +1,2 @@
+Used SVM poly kernel to classify spam. Further built a custom kernel (overriding the kernel function of sklearn)
+Used Custom_AdaBoost to minimize marginal loss. Comapred with standard AdaBoost and above SVM.
